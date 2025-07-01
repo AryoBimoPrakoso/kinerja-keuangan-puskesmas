@@ -6,20 +6,10 @@ from vizro.models.types import capture
 import vizro.plotly.express as px
 from vizro.tables import dash_ag_grid
 
-data = pd.read_csv("./dataset/puskesmas.csv")
-data.info()
-df = data.dropna()
-
 df_keuangan = pd.read_csv("./data-visualisasi/df_keuangan.csv")
 df_keuangan_agregat = pd.read_csv("./data-visualisasi/df_keuangan_agregat.csv")
 df_keuangan_agregat_tabel = pd.read_csv("./data-visualisasi/df_keuangan_agregat_tabel.csv")
 df_program_anggaran = pd.read_csv("./data-visualisasi/df_program_anggaran.csv")
-
-# df_program_anggaran = (
-#     df.groupby(["TAHUN", "PENERIMA MANFAAT (HB)", "FS1", "PR1", "HA2", "Karakter Puskesmas"])[["ALOKASI BELANJA (RP)", "REALISASI BELANJA (RP)"]]
-#     .sum()
-#     .reset_index()
-# )
 
 @capture("graph")
 def sankey_alokasi_anggaran(data_frame: pd.DataFrame):
