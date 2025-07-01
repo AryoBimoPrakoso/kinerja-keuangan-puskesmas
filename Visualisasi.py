@@ -13,12 +13,13 @@ df = data.dropna()
 df_keuangan = pd.read_csv("./data-visualisasi/df_keuangan.csv")
 df_keuangan_agregat = pd.read_csv("./data-visualisasi/df_keuangan_agregat.csv")
 df_keuangan_agregat_tabel = pd.read_csv("./data-visualisasi/df_keuangan_agregat_tabel.csv")
+df_program_anggaran = pd.read_csv("./data-visualisasi/df_program_anggaran.csv")
 
-df_program_anggaran = (
-    df.groupby(["TAHUN", "PENERIMA MANFAAT (HB)", "FS1", "PR1", "HA2", "Karakter Puskesmas"])[["ALOKASI BELANJA (RP)", "REALISASI BELANJA (RP)"]]
-    .sum()
-    .reset_index()
-)
+# df_program_anggaran = (
+#     df.groupby(["TAHUN", "PENERIMA MANFAAT (HB)", "FS1", "PR1", "HA2", "Karakter Puskesmas"])[["ALOKASI BELANJA (RP)", "REALISASI BELANJA (RP)"]]
+#     .sum()
+#     .reset_index()
+# )
 
 @capture("graph")
 def sankey_alokasi_anggaran(data_frame: pd.DataFrame):
@@ -260,17 +261,17 @@ page1 = vm.Page(
             column="TAHUN",
             targets=["sankey_diagram", "tabel_kesimpulan"],
             selector=vm.Dropdown(
-                options=df["TAHUN"].unique().tolist(),
+                options=df_keuangan["TAHUN"].unique().tolist(),
                 multi=True,
-                value=df["TAHUN"].unique().tolist(),
+                value=df_keuangan["TAHUN"].unique().tolist(),
             ),
         ),
         vm.Filter(
             column="Karakter Puskesmas",
             targets=["sankey_diagram", "tabel_kesimpulan"],
             selector=vm.Checklist(
-                options=df["Karakter Puskesmas"].unique().tolist(),
-                value=df["Karakter Puskesmas"].unique().tolist(),
+                options=df_keuangan["Karakter Puskesmas"].unique().tolist(),
+                value=df_keuangan["Karakter Puskesmas"].unique().tolist(),
             ),
         ),
     ],

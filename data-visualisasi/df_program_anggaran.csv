@@ -1,0 +1,632 @@
+TAHUN,PENERIMA MANFAAT (HB),FS1,PR1,HA2,Karakter Puskesmas,ALOKASI BELANJA (RP),REALISASI BELANJA (RP)
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,351021680,241377679
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,506263939,421284357
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,731136830,588115554
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,1301111148,902360275
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,304652861,218349856
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,708143226,454448038
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,411519335,306645532
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,497734317,339944138
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,25766539487,19484042091
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,15604180874,11585887307
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,986808627,621933868
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,3862259799,2868777213
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,996451967,913413179
+2022.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,81876685,58730587
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,22100083100,16463479194
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,3645764263,2762775513
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,1013037748,764856155
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,2112449251,1393470700
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,1545119141,1068137316
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,81036390,68637862
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.4 Penyusunan regulasi kesehatan,Terpencil,629454593,536408041
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,3273389947,2340154181
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,378454226,205703171
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,5574918331,4070279526
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,1681923486,1300813000
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,266845631,145815513
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,173116876,121136091
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,612715043,537122746
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,210152348,136018133
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,187506099,187401009
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,156574393155,118626064007
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,34002235212,26160069117
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,1883963142,1130811993
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,35165713736,26854978885
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,9347969915,6872405471
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,1869300953,1522681438
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,6005302389,4576951295
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,1147764504,960844255
+2022.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,794236855,506217697
+2022.0,HB.2 1 - 5 tahun (balita),FS.2 Dana Semi Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,324861381,204392648
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perdesaan,409022033,218966432
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,724323251,594470263
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,416468043,344432765
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,126626344,63321336
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,1973814397,1462210522
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,375098013,254080546
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,520756226,340928826
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,377453599,306189035
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,1702262779,1154082522
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,460266062,234541750
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,74802593,42380289
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,668585966,607362252
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,91969345892,69011403322
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,21711095540,16382362985
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,3400782205,2541239048
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,13304456564,10669865725
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,10322526284,7365267409
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,90465335,87236396
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,1741943799,1364291148
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,4646870723,3244194978
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,799171269,675503713
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perkotaan,836550914,553083054
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,1728925333,1133573079
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,1144105456,788221156
+2022.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,2022037522,1266827153
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,19568840702,14786563661
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,3050442422,2143551873
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,234870458,180784662
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,1563819798,1132981379
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,15560903732,12053047625
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,5067352839,3554631664
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,174343234,118368783
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,5119725771,3678578254
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,2396467875,1548175391
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,283431932,256424143
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,1676398169,1014817810
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,905013468,621737839
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,2571013991,1858970544
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,68448023,47337391
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,1914155295,1501591710
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,1379925110,1147085439
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,82739526257,62369376110
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,17148356301,13178373301
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,2401332873,1903177206
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,19125670335,14499609533
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,985541312,764336458
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,394465045,277662939
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,727081591,403221291
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,215251675,169157976
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,812336718,543807648
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,1867308393,1362357886
+2022.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,2104235182,1707658202
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perdesaan,2031669283,1482222338
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Terpencil,424767031,297971745
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,59391167355,44941671727
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,18111137557,13606642766
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,930049245,765590925
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,19066907654,13676586156
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,85609898771,64326770161
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,20513806607,15358050281
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,3266008338,2267585210
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,13932410606,10621738299
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,10604156135,8060346197
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,4494851525,3316828474
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Sangat Terpencil,841736473,637615211
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,4005342316,3033258543
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,5087318566,3626833551
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,1685721438,1362465846
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,315609491,174786676
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,12189529866,9314532344
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,5072993726,3860295804
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,156646434,99887580
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,1754761263,1440702035
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,365430493894,273275582311
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,99799568878,73802056771
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,12658593903,9849346584
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,89477441338,66979099229
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,9698062204,7191014098
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,1492538399,931530250
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,1163072273,953944867
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,1724749676,1295685342
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perdesaan,1810375267,1390371948
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,675006839,544407773
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,373778058,240663885
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perdesaan,31428536448,22869004198
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perkotaan,5488841138,3615250664
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Sangat Terpencil,1928493892,1643779513
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Terpencil,5136833354,3726708907
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,52391380437,39511549337
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perkotaan,15720498336,12226414838
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,756453443,535517712
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,14644841519,11076891975
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,26946328268,20197237561
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,8142970739,6084381424
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,376876496,241990413
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,5303777956,3818011393
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.5 Perencanaan dan Penganggaran Program,Perdesaan,38384889202,28662642999
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.5 Perencanaan dan Penganggaran Program,Perkotaan,8191675071,6113439859
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.5 Perencanaan dan Penganggaran Program,Sangat Terpencil,1763794131,1309418604
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.5 Perencanaan dan Penganggaran Program,Terpencil,3872816240,3001339553
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,26249961228,18927174406
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,5374824632,3663476425
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Sangat Terpencil,116241382,80812331
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,7548821601,5842992638
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,679896417,528292750
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,32302866782,24600354197
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,5877291561,4516061634
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,2044118092,1526921107
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,2458220520,1763375373
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,13644402142,10291640039
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,5259061991,3886164485
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,286067128,207194520
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,1294520708,986420987
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,8383763735,6485021726
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,1146240561,997180160
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,4101986291,3060639089
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,1333569561,1062919712
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,169533417,94987537
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,932841737,670268538
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.1 Manajerial institusi,Perdesaan,52930798735,39005012532
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.1 Manajerial institusi,Perkotaan,12565281740,9322263274
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.1 Manajerial institusi,Sangat Terpencil,2512299129,1808662531
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.1 Manajerial institusi,Terpencil,5053670975,3775470731
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,10644662597,8356997932
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,1930740196,1292777550
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,552405822,402914630
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.3 Peningkatan Kapasitas Personil,Terpencil,1262263927,1053836186
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.5 Perencanaan dan Penganggaran Program,Perdesaan,24590660136,18841045729
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.5 Perencanaan dan Penganggaran Program,Perkotaan,5147144855,4013883729
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.5 Perencanaan dan Penganggaran Program,Sangat Terpencil,1368242425,1043519485
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.5 Perencanaan dan Penganggaran Program,Terpencil,2586240207,2054720031
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,23087507642,17258428243
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,6596276872,4931974677
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Sangat Terpencil,861353304,782630888
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,3191095928,2385310142
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,392737007,360214237
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,2219458862,1564477907
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,50732463771,37332686522
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,4205884971,2909450440
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,12575005281,9085083809
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perdesaan,840813880,659383204
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Terpencil,53015683,48604346
+2022.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,1154531574,915267190
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,2358472118,1807391792
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,442635353,414925559
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,24080066257,17856606282
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,5480361004,3963166770
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,710459668,459829731
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,1829953541,1287830156
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,49118577,36235758
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,330810817,266924058
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,410627003,278745770
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,680476345,509256810
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,27928074254,20811724577
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,7876609247,5907287597
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,551078328,445699766
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,4875703110,4031457559
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,1516372443,1192138570
+2022.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,2071463367,1439197966
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perdesaan,13567504593,9786756184
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perkotaan,2781928635,2169809755
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Sangat Terpencil,223522725,211786917
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Terpencil,1162996057,844022254
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,52767835947,39885494779
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,5274689926,3849911908
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,25365416,14053290
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,19867544479,15496607265
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,38472283904,29175965807
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,9576023877,7593261748
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,68613549,35547439
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,10066744082,8092975754
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,36489762748,27107970127
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,4822975103,3733992157
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,5350967547,4016218375
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,17950314178,13278955088
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,8193311835,6729856108
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,144539311,112375535
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,1273730257,1108464383
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,11648600354,8590299945
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,1136729545,964043873
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,891506122,574543725
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,2930134840,2210097485
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,588940929072,443687595387
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,148319256171,113667439306
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,5777511718,4527878468
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,123068615769,91931014377
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,14683175118,10869162561
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,6028266570,4541619943
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,8311319778,6134599270
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perdesaan,129198059938,97793342136
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perkotaan,26948672872,20062166103
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Sangat Terpencil,1678625880,1272913330
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Terpencil,50240093505,37980473648
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.2 Pertemuan koordinasi,Perdesaan,1428764589,1056423817
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.2 Pertemuan koordinasi,Perkotaan,358604270,330769566
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,1410603794,1124653862
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,1591659850,1037104942
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,533367057,327012513
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.5 Perencanaan dan Penganggaran Program,Perdesaan,2152091726,1510302035
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,3660720332,2570400142
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perkotaan,1733902044,1283948670
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Sangat Terpencil,112274282,89229789
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,2901472476,2181546799
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,12967102500,9785723770
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,2163072499,1454900266
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,741923257,591848743
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,1691918762,1182952061
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,4276156551,3324548148
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,1370381578,928227276
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,297354948,200602244
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,990320927,742303958
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,285326524,182550812
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,135899303028,101122722614
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,59270468953,44511161685
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,1634512217,1097514958
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,30435103101,22317596066
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perdesaan,90585464178,68477270421
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perkotaan,17243801525,12537080840
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Sangat Terpencil,860698572,702063826
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Terpencil,38898542644,30013723036
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,57512788384,43177277892
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perkotaan,10638661418,7787794589
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,309863818,269687094
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,8246491843,5854068652
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,31418397815,22922426619
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,7228892844,5376469303
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,393351919,284178944
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,9729682018,7230164603
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.5 Perencanaan dan Penganggaran Program,Perdesaan,19641642810,15152189667
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.5 Perencanaan dan Penganggaran Program,Perkotaan,1930235021,1533906636
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.5 Perencanaan dan Penganggaran Program,Sangat Terpencil,874912972,513047594
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.5 Perencanaan dan Penganggaran Program,Terpencil,1052483303,830348099
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,11811344529,8926026237
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,1905840854,1199061749
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Sangat Terpencil,241511685,201406019
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,7428298714,5896144940
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,53888273300,39758842906
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perkotaan,9378472788,7579133451
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Sangat Terpencil,1241743532,932890399
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,22336091504,16852270386
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,7675344633,6106375031
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,1717841102,1390339272
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,20198483,19749094
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,2124750458,1485829037
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,56101526296,42398254677
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,15846213831,12300139414
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,875071878,634828181
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,19449963561,14088040185
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,3115182246,2462037202
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,3262037459,2321661799
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,3597661194,2611266735
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.1 Manajerial institusi,Perdesaan,123774893203,92679131013
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.1 Manajerial institusi,Perkotaan,25422959992,18629236683
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.1 Manajerial institusi,Sangat Terpencil,7239647458,5588086454
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.1 Manajerial institusi,Terpencil,12565768113,9159949898
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.5 Perencanaan dan Penganggaran Program,Perdesaan,10767105432,8273405685
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.5 Perencanaan dan Penganggaran Program,Perkotaan,1800426268,1404089044
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.5 Perencanaan dan Penganggaran Program,Sangat Terpencil,731587411,658206142
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.1.5 Perencanaan dan Penganggaran Program,Terpencil,824327206,695485690
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,4554665807,3665507620
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,1089248154,834317486
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,236483403,120205117
+2022.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,353971984,328101640
+2022.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,162491048178,120826086811
+2022.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,30754976252,23528420920
+2022.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,7208676169,5517081009
+2022.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,6056575003,4549298258
+2022.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,140662819,95212147
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perdesaan,1313668065,883746250
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,16406830493,12316330121
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,434928499,367442632
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,5780717943,4445018550
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,1875761069,1433943238
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,462057335,348828914
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,651825539,472697290
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,182539673,136279193
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,115944616231,87723017292
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,12301078115,9707176105
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,9287044878,6687720090
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,23020025329,17133481799
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,14008116049,11178932127
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,3675662641,2738456649
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,169480483,134786360
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,5400827578,3854640161
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perdesaan,2994982145,2089092242
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,3083694609,2585668424
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perdesaan,1670321896,1405214891
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Sangat Terpencil,1727035102,1273748559
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,15293927625,11494985092
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,2385714154,1824215554
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,2637423646,2243811868
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.4 Penyusunan regulasi kesehatan,Perdesaan,415559839,388141343
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,8144106873,5872822677
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,1272405836,901992741
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,4147287341,3230325228
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,7576350090,5015343635
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,274704482,250812103
+2022.0,HB.8 Kelompok Umur belum dipilah,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,543072318,463126835
+2023.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,609087043,441332971
+2023.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,16558907224,12110133323
+2023.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,3708558364,2740033035
+2023.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,12547882381,9859580942
+2023.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,20250532592,14794829456
+2023.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,384644994,246100853
+2023.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,448256749,437406867
+2023.0,HB.1 0 - <1 tahun (bayi),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,312738933,242904528
+2023.0,HB.1 0 - <1 tahun (bayi),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,437216576,287604417
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perdesaan,401425316,307538640
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,5782695890,4651032325
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,688166425,578498512
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,980045144,801491025
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,426400734,353345869
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,259594386,211520664
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,641144879,367575328
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,1360794446,911954352
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,1550398663,1213459997
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,133077272,78518464
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,59875328344,45043383078
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,6934699559,5126606893
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,19282592968,14584383713
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,72967152761,55597408018
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,2501647779,1832110211
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,3541984422,2741190123
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,1147310107,730766092
+2023.0,HB.2 1 - 5 tahun (balita),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,439047744,247408578
+2023.0,HB.2 1 - 5 tahun (balita),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,349279262,294393382
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perdesaan,1063459753,699634573
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perkotaan,312017578,305096379
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,8131592579,6573481529
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,1051100473,811675279
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,1919449747,1267846709
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,329709743,246523580
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,708438069,506844483
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perkotaan,401318912,210701037
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,383073355,254377856
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,90226716,65494966
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,791027712,567501307
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,285423115,214603299
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,337023672,238058214
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,76418603761,58268419727
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,20370528788,15027879202
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,9151417445,7161516193
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,50681824399,37166793546
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,5513681845,3848139336
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,1267344194,813232005
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,1402572135,844124835
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Terpencil,167424312,85376024
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,184560202,127422743
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,397564335,237284103
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,243227783,212113376
+2023.0,HB.3 6 - 12 tahun (anak sekolah),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,1458872767,1179136547
+2023.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,1018677758,873020173
+2023.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,18187031634,13801915243
+2023.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,2461246525,1835794906
+2023.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,7823856645,5664949198
+2023.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,18174986980,12958518466
+2023.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,754663936,669427415
+2023.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,458630704,313488920
+2023.0,HB.4 13 - 18 tahun (remaja),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,144977576,83454295
+2023.0,HB.4 13 - 18 tahun (remaja),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,175821911,152377911
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perdesaan,956081478,693338797
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perkotaan,1444943326,954995774
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,41157657451,30509562911
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,4930216506,4017900374
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,6722903051,4684530656
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,48196191567,35847273162
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,6274641320,4505804004
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,1344292097,925896644
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,165495272,128211018
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,2066557386,1499572617
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Sangat Terpencil,297724574,192850399
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,3506034488,2448871840
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,3033513404,2023233526
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,1278766838,826591123
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,2015291320,1631633517
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,1131720763,778346757
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,292846159,239298403
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,157683271124,118143111352
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,35965111315,27548191594
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,88065507583,66786588917
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,266579624915,198608316303
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,12812580124,9568188877
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,2551197504,1919621086
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,7032890308,5211777315
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perkotaan,199556482,195923422
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,1957581272,1630369086
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,480146951,292482307
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,63226755,42997684
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,682097367,418079218
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perdesaan,3227382116,2272777889
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perkotaan,1937724186,1167512590
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Sangat Terpencil,5274448406,3941175452
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Terpencil,25514934073,19183751332
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,14538986389,10804533599
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perkotaan,4331439240,2988502834
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,10950757821,8614895585
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,22096791273,16632620081
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,1599568329,1237970343
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,305265285,217295666
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,790973352,627275984
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,300886610,174830948
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,641973760,405369082
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,355135499,279801910
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,5658550750,4412628757
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perkotaan,1415453481,959373303
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Sangat Terpencil,954810534,781532010
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,2933593976,2323524279
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,1204527332,970822201
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,478753440,347930357
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,3682840507,3018990566
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,2186335574,1770768471
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,3213290759,2307351786
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,3191700058,2308270872
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,15552229473,11812718181
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,18292171726,14091565514
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,1965698775,1413759203
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,1239421503,954180335
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,899884301,639073474
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,5825059447,4252595119
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,409467918,268253651
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,709060148,510079008
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perdesaan,208962401,106806933
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Sangat Terpencil,383667915,232068453
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Terpencil,2817001394,2147177844
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,103386454,75791398
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,249692126,208024903
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,535681948,478991083
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,1277604107,1011670228
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,1627380533,1422442837
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,1342751639,1012797769
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,1643163665,1235704610
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,12747732234,9816989073
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,4363405769,3201403776
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,3434324732,2468581306
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,10947927142,7882044788
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perdesaan,6123338259,4598605860
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Sangat Terpencil,6099395423,4958058163
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Terpencil,18333388596,13673084720
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,2434300691,1963603855
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,1455302103,1209333476
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,2796353632,2253456292
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,1133795409,845513901
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,978835742,723779130
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,2464212826,1670539349
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.4 Penyusunan regulasi kesehatan,Terpencil,142077199,78838716
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,672005377,488636932
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,1080761463,744205335
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,1415141812,1033927088
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,2099968076,1596627244
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,2009589580,1570629675
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,377342059,265238260
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,20547410054,16494851505
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,931633480,702261156
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,917009576,545989295
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,1462604964,935327523
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,473100574,341530742
+2023.0,HB.5 15 - 59 tahun (usia produktif),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,701419338,560664337
+2023.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,1418526118,1308145256
+2023.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,593673466,463305660
+2023.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,15542645390,11491520374
+2023.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,2777655650,1917748717
+2023.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,6456090957,4850441256
+2023.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,25616645223,18978525317
+2023.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,594694101,405481677
+2023.0,HB.6 60+ tahun (lansia),FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,337036945,236538868
+2023.0,HB.6 60+ tahun (lansia),FS.2 Dana Semi Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,327994081,190974856
+2023.0,HB.6 60+ tahun (lansia),FS.2 Dana Semi Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,373233063,279950482
+2023.0,HB.6 60+ tahun (lansia),FS.2 Dana Semi Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,35657039,23920881
+2023.0,HB.6 60+ tahun (lansia),FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,284349519,241720071
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perdesaan,2922244106,2171953019
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Perkotaan,731790877,498155489
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Sangat Terpencil,675498360,512552196
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.1 Manajerial institusi,Terpencil,747028101,522314708
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perdesaan,29573016053,22338220344
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Perkotaan,2392401873,1821059961
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,9337008243,7069576368
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.2 Pertemuan koordinasi,Terpencil,29598947069,21905520278
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,1486995929,1080524079
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.3 Peningkatan Kapasitas Personil,Sangat Terpencil,126841346,104205238
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,3980053243,2991925494
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,480296681,439591043
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Sangat Terpencil,1437960025,1160704214
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,1283577839,1121597983
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,953305994,837080582
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perkotaan,871205426,603612379
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Sangat Terpencil,2793112933,2130041645
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,2149751300,1578945688
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,2337029904,1808522731
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,438227185,363743273
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,4174470344,3302794164
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,1800253616,1395574882
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,717821185,450569080
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,3747323792,2640172548
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,243420397653,179496950693
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,62815472448,46907328003
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,89482542159,66432221602
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,227779975742,171434336553
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,4488188893,3642340462
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,252691073,171104883
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,394899184,224376996
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.1 Program Kesehatan Masyarakat,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,1052496854,785688921
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perkotaan,542821740,488179281
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,6930719587,5151839993
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,2548183134,1828459383
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,21065829,18771582
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,201990913,141006414
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,336873029,222389858
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,203437455,155391867
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,7347852349,5658176955
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,781854410,714678849
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,2352918815,1742688301
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perdesaan,23918619342,18465166053
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perkotaan,2817206045,2097145986
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Sangat Terpencil,8271215149,6381426978
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Terpencil,25595424013,18751190849
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,2938198353,2141613799
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,829084202,786982342
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,2921797089,2319168184
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,249409665,246527959
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,318837017,316648165
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perkotaan,1311798538,893562649
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,986877035,793144192
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,5748456077,4037086238
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perkotaan,1632328632,1429743558
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Sangat Terpencil,3930372420,3199903849
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,768801613,479309721
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,495779882,253864273
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,3294349689,2479458191
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,3727084834,2637926083
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,7920475900,5445234333
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,1543830407,1175950217
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,3921459441,2925108657
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,5677302435,4324433061
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,5712293040,4511437357
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,980309246,621683946
+2023.0,HB.7 Semua Kelompok Umur,FS.1 Dana Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,1251512800,877088802
+2023.0,HB.7 Semua Kelompok Umur,FS.1.2.1.2.2 DAU unearmarked (Untuk Gaji ASN),PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.2 Kegiatan Langsung (Gaji ASN),Perdesaan,13808714572,10414628547
+2023.0,HB.7 Semua Kelompok Umur,FS.1.2.1.2.2 DAU unearmarked (Untuk Gaji ASN),PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.2 Kegiatan Langsung (Gaji ASN),Perkotaan,6507756757,4867281686
+2023.0,HB.7 Semua Kelompok Umur,FS.1.2.1.2.2 DAU unearmarked (Untuk Gaji ASN),PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.2 Kegiatan Langsung (Gaji ASN),Sangat Terpencil,5199640255,3978405417
+2023.0,HB.7 Semua Kelompok Umur,FS.1.2.1.2.2 DAU unearmarked (Untuk Gaji ASN),PR.3  Program Penguatan Sistem Kesehatan (Gaji ASN),HA.2 Kegiatan Langsung (Gaji ASN),Terpencil,10937190759,8495619028
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perdesaan,575920640,410569361
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Perkotaan,2836608094,1924515132
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.1 Manajerial institusi,Terpencil,647407279,551476360
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,222576329,124555112
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,314434037,250471597
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,94854490,59053390
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,10984114669,8227686980
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,6575365807,5331402535
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,2150840137,1652109065
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,13367472711,9989702678
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,943415084,698076466
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,473267324,243429305
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,333656548,318976373
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,482344059,320980836
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,42993950135,32215988286
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,33308297677,25824454253
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,16814015686,13005292048
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.2 Program Kesehatan Individu,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,36196647615,27019168076
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perdesaan,14456876461,11022468096
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Perkotaan,6841639269,5334210496
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Sangat Terpencil,2597219455,2159083724
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.1 Manajerial institusi,Terpencil,23112334906,17184000824
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perdesaan,3726276995,2840352610
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Perkotaan,672673800,518682945
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Sangat Terpencil,1681218446,1316170674
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.2 Pertemuan koordinasi,Terpencil,4679587473,3434420035
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perdesaan,2370147947,1573447081
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Perkotaan,700515014,617399693
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.3 Peningkatan Kapasitas Personil,Terpencil,1559932613,1241979354
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Perdesaan,753603226,597562121
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,"HA.1.6 Monitoring, Evaluasi dan Pelaporan",Terpencil,1402523752,1011031927
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perdesaan,12530506071,9653150692
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Perkotaan,1022381848,757096345
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Sangat Terpencil,3885349295,2834924513
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.7 Pengadaan dan Pemeliharaan Infrastruktur Medis dan Non-medis,Terpencil,5783531351,4317715119
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perdesaan,34482069939,25859830353
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Perkotaan,7232433111,5329705248
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Sangat Terpencil,4791869388,3586748852
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.8 Pengadaan alat dan bahan Medis dan Non Medis,Terpencil,35626050727,26424330738
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perdesaan,8833192026,6875586766
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Perkotaan,7059751282,5279786719
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Sangat Terpencil,988977595,829465499
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.1.9 Penelitian dan Pengembangan Kesehatan,Terpencil,8096590348,6276989499
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perdesaan,2263081399,1550582071
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Perkotaan,325785813,303823039
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Sangat Terpencil,1275681686,991355366
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.1 Kegiatan Upaya Kesehatan Masyarakat,Terpencil,1153970917,902121151
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perdesaan,956223391,815487077
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Perkotaan,302140070,239873015
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Sangat Terpencil,187853505,132120095
+2023.0,HB.7 Semua Kelompok Umur,FS.2 Dana Semi Publik,PR.3  Program Penguatan Sistem Kesehatan,HA.2.2 Kegiatan Upaya Kesehatan Perorangan,Terpencil,1898098140,1599329534
